@@ -1,4 +1,2 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daikihi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=7d8590&text_color=7d8590&rank_icon=github&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daikihi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&size_weight=0.5&count_weight=0.5&cache_seconds=86400)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daikihi&theme=react-dark&hide_border=true&area=true&cache_seconds=86400)
